@@ -40,7 +40,7 @@ header {
     height: 100px;
     background: rgba(0, 0, 0, 0.9);
     padding: 20px;
-    color: #fff;
+    color: white;
 }
 
 #header-icon {
@@ -51,7 +51,7 @@ header {
 
 #header-icon i {
     padding: 5px;
-    color: #fff;
+    color: white;
 }
 
 .container {
@@ -66,6 +66,7 @@ nav {
     min-width: 200px;
     background: rgba(0, 0, 0, 0.9);
     padding: 20px;
+    /*menu bar 固定*/
 }
 
 main {
@@ -100,12 +101,10 @@ main h2 span.uline {
 main p {
     color: white;
     padding: 50px;
-
 }
 
 nav li a {
     display: block;
-
     height: 100%;
     width: 100%;
     line-height: 60px;
@@ -133,17 +132,15 @@ nav li:hover a {
     margin-bottom: 30px;
     /*ボックス同士のスペース*/
     padding: 20px;
-    /*ボックス内の余白*/
     background: #fff;
     color: #999;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
-    /*ボックスの影。*/
 }
 
 /*ボックス内のh4タグ*/
 .list h4 {
     margin: 10px 0;
-    /*上下、左右への余白*/
+    /*余白*/
     color: #666;
 }
 
@@ -178,7 +175,6 @@ footer {
     padding: 10px;
 }
 
-/*リンクテキスト*/
 footer a {
     color: white;
     text-decoration: none;
@@ -186,7 +182,7 @@ footer a {
 
 /*リンクテキストのマウスオン時*/
 footer a:hover {
-    color: #fff;
+    color: white;
 }
 
 /*著作部分*/
