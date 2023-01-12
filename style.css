@@ -233,3 +233,8 @@ footer a:hover {
 footer .pr {
     display: block;
 }
+
+.article{
+    /*装飾*/
+    font-size:25px;
+}
