@@ -12,5 +12,5 @@
 ここに書きたいこと1<br>
 <!--本論-->
 
-<img width = "60" src="images/battery.jpg">
+<img width = "360" src="images/battery.jpg">
 <!--写真挿入-->
