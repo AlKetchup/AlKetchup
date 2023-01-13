@@ -13,4 +13,5 @@
 <!--本論-->
 
 <img width = "360" src="images/battery.jpg">
+<img width = "360" src="images/line.jpg">
 <!--写真挿入-->
