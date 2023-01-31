@@ -13,8 +13,8 @@ JLCPCBさんはきれいな基盤があっという間に届くので基板設�
 さて、今回の一番の目玉基板は、こちらです！<br>
 <!--本論-->
 
-<img width = "360" src="images/battery.jpg">
-<img width = "360" src="images/line.jpg">
+<img width = "300" src="images/LCD.JPG">
+<img width = "300" src="images/battery2.JPG">
 <!--写真挿入-->
 
 メイン基板に比べたら少し地味ですね(笑）<br>
