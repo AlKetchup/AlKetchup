@@ -16,6 +16,8 @@ JLCPCBさん、学生であり金銭面にもいろいろな問題がある中�
 開けてみるとこんな感じでした。<br>
 基板の動作チェックをしても、僕のミス以外完璧でした。<br>
 ちなみに今回発注した基板はmain board,battery board,line senserが三種類といった内容です。<br>
+<br>
+今回ご協力頂いたJLCBCBさん：https://jlcpcb.com/JPV <br>
 
 
 <br>
