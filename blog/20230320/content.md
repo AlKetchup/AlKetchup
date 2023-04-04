@@ -7,16 +7,16 @@
 <br>
 <!--本論-->
 2021年全国大会 <br>
-<img width = "800" src="images/宗中グラジオラス　RCJ Japan open 2021 完成版2.jpg">
+<img width = "5000" src="images/宗中グラジオラス　RCJ Japan open 2021 完成版2.jpg">
 <br>
 2021年アジアパシフィック大会 <br>
-<img width = "800" src="images/Munakata Gladiolus presentation sheet.jpg">
+<img width = "5000" src="images/Munakata Gladiolus presentation sheet.jpg">
 <br>
 2022年全国大会 <br>
-<img width = "800" src="images/WSL048_宗高グラジオラス_九州ブロック.jpg">
+<img width = "5000" src="images/WSL048_宗高グラジオラス_九州ブロック.jpg">
 <br>
 2023年全国大会 <br>
-<img width = "800" src="images/宗高グラジオラスプレゼンシート.jpg">
+<img width = "5000" src="images/宗高グラジオラスプレゼンシート.jpg">
 <br>
 今後も更新していくのでぜひ確認してみてください！<br>
 <!--写真挿入-->
