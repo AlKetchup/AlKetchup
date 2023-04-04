@@ -26,6 +26,13 @@
 	90% {opacity: 1;}
 	100% {opacity: 0;}
 }
+@keyframes slide4 {
+	0% {opacity: 0;}
+	60% {opacity: 0;}
+	70% {opacity: 1;}
+	90% {opacity: 1;}
+	100% {opacity: 0;}
+}
 
 
 /*スライドショーの設定*/
@@ -35,7 +42,7 @@
 	margin-bottom: 30px;
 }
 
-.slide1,.slide2,.slide3 {
+.slide1,.slide2,.slide3,slide4 {
 	width: 100%;height: auto;
 	animation-duration: 12s; /*実行する時間。*/
 	animation-iteration-count:infinite; /*実行する回数。*/
