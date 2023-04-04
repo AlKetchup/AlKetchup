@@ -42,7 +42,7 @@
 	margin-bottom: 30px;
 }
 
-.slide1,.slide2,.slide3,slide4 {
+.slide1,.slide2,.slide3,.slide4 {
 	width: 100%;height: auto;
 	animation-duration: 12s; /*実行する時間。*/
 	animation-iteration-count:infinite; /*実行する回数。*/
