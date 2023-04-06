@@ -21,16 +21,18 @@
 }
 @keyframes slide3 {
 	0% {opacity: 0;}
-	60% {opacity: 0;}
-	70% {opacity: 1;}
-	90% {opacity: 1;}
+	25% {opacity: 0;}
+	35% {opacity: 1;}
+	60% {opacity: 1;}
+	70% {opacity: 0;}
 	100% {opacity: 0;}
 }
 @keyframes slide4 {
 	0% {opacity: 0;}
-	60% {opacity: 0;}
-	70% {opacity: 1;}
-	90% {opacity: 1;}
+	25% {opacity: 0;}
+	35% {opacity: 1;}
+	60% {opacity: 1;}
+	70% {opacity: 0;}
 	100% {opacity: 0;}
 }
 
@@ -44,7 +46,7 @@
 
 .slide1,.slide2,.slide3,.slide4 {
 	width: 100%;height: auto;
-	animation-duration: 12s; /*実行する時間。*/
+	animation-duration: 16s; /*実行する時間。*/
 	animation-iteration-count:infinite; /*実行する回数。*/
 	position: absolute;left:0px;top:0px;
 	animation-fill-mode: both;
